@@ -32,7 +32,7 @@ terraform {
     organization = "dennishenderson"
 
     workspaces {
-      name = "terraform"
+      name = "terraform-cli"
     }
   }
 }
