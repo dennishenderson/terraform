@@ -1,4 +1,4 @@
-region = "us-west-1"
+region = "us-east-1"
 
 amis = {
         # us-east-1 - Ubuntu Server 20.04 LTS (HVM), SSD Volume Type (64bit)
